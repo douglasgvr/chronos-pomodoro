@@ -1,8 +1,6 @@
 .heading {
-  font-size: 2em;
-  font-weight: bold;
-  color: #333;
-}
-.heading--small {
-  font-size: 1.5em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4rem;
 }
